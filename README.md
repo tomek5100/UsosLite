@@ -1,4 +1,22 @@
 # USOS-Lite
+USOS LITE to aplikacja dziennika szkolnego, dzięki której użytkownik może sprawdzić swoje oceny, 
+plan zajęć, może również edytować swój plan i dodawać spersonalizowane zajęcia, 
+skorzystać z tablicy ogłoszeń, aby poznać najnowsze informacje udostępnione przez placówkę. 
+Może również sprawdzić swoje dane widniejące w systemie, np. swój nr albumu albo informacje 
+dotyczących najbliższych zajęć. Aplikacja wychodzi naprzeciw potrzebom użytkowników,
+pomaga oszczędzać czas oraz ułatwia organizację życia akademickiego poprzez przejrzysty interfejs 
+graficzny, oraz zebranie najważniejszych informacji dotyczących studiów.
+
+### Instrukcje uruchomieniowe:
+Aby uruchomić USOS LITE:
+1) Zalecane
+   a) mieć skonfigurowane środowisko Python oraz zainstalowane pakiety:
+      -pip install PyQt5
+      -pip install pyqt5-tools
+   b) python main.py
+2) [lub niepolecane ale wygodniejsze (wystarczy otworzyć plik main.exe)](usunięto)
+
+Należy się zalogować, używając formatu maila: [imie].[nazwisko]@student.uj.edu.pl, hasło powinno być dłuższe niż 3 znaki.
 
 ### Strona główna
   * dane studenta
