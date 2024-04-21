@@ -14,7 +14,7 @@ Aby uruchomić USOS LITE:
       -pip install PyQt5
       -pip install pyqt5-tools
    b) python main.py
-2) [lub niepolecane ale wygodniejsze (wystarczy otworzyć plik main.exe)](usunięto)
+3) lub niepolecane ale wygodniejsze (wystarczy otworzyć plik main.exe)(usunięto)
 
 Należy się zalogować, używając formatu maila: [imie].[nazwisko]@student.uj.edu.pl, hasło powinno być dłuższe niż 3 znaki.
 
