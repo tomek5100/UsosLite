@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="photo-man.jpg">photo-man.jpg</file>
+        <file alias="logo.png">logo.png</file>
+		<file alias="img_for_article.jpg">img_for_article.jpg</file>
+    </qresource>
+</RCC>
